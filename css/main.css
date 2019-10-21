@@ -74,10 +74,6 @@ a:hover {
 
 
 /*Middle Section - Search Box*/
-/*select any elements with a class of search-box*/
-.search-box {
-	margin-top:75px;
-}
 /*select any elements with a class of search-box and then find any img tags inside*/
 .search-box img {
 	margin: 142px auto 24px auto;
