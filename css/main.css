@@ -1,12 +1,12 @@
-/* Order your css from top to bottom, but start with general sitewide rules at the top */
+/* Order your css from top to bottom, but start with general site wide rules at the top */
 
-/* Using an * is to set titewide styles*/
+/* Use a * is to set site wide styles*/
 * {
 	/*change the default color of all elements to black*/
 	color: #000;
 }
 body {
-	/*set default margin to 0 - becuase every browser has a different default margin*/
+	/*set default margin to 0 - because every browser has a different default margin*/
 	margin:0;
 	display: flex;
 	flex-direction: column;
